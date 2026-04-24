@@ -1,7 +1,5 @@
 # CPE663 Major Assignment: Building a Mini Transformer and Producing a Small Benchmark
 
-**Author:** Manus AI
-
 ## 1. Introduction
 
 This assignment focuses on understanding the fundamental concepts of the Transformer architecture through practical implementation and experimentation. The primary objective is to build a compact Transformer model from first principles, train it on a synthetic sequence classification task, and conduct a comparative benchmark of various model configurations. The emphasis is on comprehending the internal workings of the Transformer rather than achieving state-of-the-art performance or optimizing for scale.
